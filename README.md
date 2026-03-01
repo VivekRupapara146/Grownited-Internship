@@ -1,2 +1,2 @@
-# Royal-Internship
+# Grownited-Internship
 Tasks and Projects
